@@ -15,6 +15,10 @@ nav {
     justify-content: space-between;
     margin-top: 50px;
 }
+.bloc {
+    margin-top: 50px;
+    padding: 0 20px;
+}
 .page .main {
     width: 70%;
     padding-left: 10px;
